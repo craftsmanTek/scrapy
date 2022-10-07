@@ -1,5 +1,5 @@
 pyOpenSSL==0.10
 lxml==2.2.4
-twisted==10.0.0
+twisted==22.4.0
 boto==1.9b
 .
